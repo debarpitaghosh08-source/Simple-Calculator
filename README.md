@@ -25,7 +25,7 @@ Since this project uses basic web technologies, there is no need for complex bui
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/aesthetic-calculator.git](https://github.com/yourusername/aesthetic-calculator.git)
+    git clone [https://github.com/yourusername/aesthetic-calculator.git](https://github.com/debarpitaghosh08/aesthetic-calculator.git)
     ```
 
 2.  **Navigate to the project directory:**
