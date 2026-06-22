@@ -3,6 +3,7 @@
 A clean, modern, and fully functional web-based calculator built using core web technologies. This project focuses on a smooth user interface, fundamental DOM manipulation, and handling arithmetic logic in plain JavaScript.
 
 ## 📸 Preview
+<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/abe62149-3a56-4f75-a252-f2a429e941ce" />
 
 
 ## 🌟 Features
